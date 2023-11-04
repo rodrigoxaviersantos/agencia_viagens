@@ -8,16 +8,12 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg">
-</p><p align="center">
-  <img alt="License" src="https://img.shields.io/badge/java_8-✓-blue.svg">
-</p>
-</p><p align="center">
-  <img alt="License" src="https://img.shields.io/badge/mysql-✓-blue.svg">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg"> <img alt="License" src="https://img.shields.io/badge/java_8-✓-blue.svg"> <img alt="License" src="https://img.shields.io/badge/mysql-✓-blue.svg"
 </p>
 
 
-### Tabelas:
+### <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>  Tabelas:
+
 ``` 
 Usuario:
 id_usuario (INT, Chave Primária, Auto-incremento): Identificador único do usuário.
