@@ -1,0 +1,1 @@
+![image](https://github.com/rxaviersantos/BootcampWEX/assets/85380530/7cf88640-ae84-4bf5-91e8-6ffc68a19132)
